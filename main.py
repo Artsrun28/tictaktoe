@@ -1,7 +1,6 @@
 import random
 import tkinter as tk
 from time import sleep
-from random import randint
 
 
 win = tk.Tk()
